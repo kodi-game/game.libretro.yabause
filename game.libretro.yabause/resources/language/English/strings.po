@@ -32,3 +32,7 @@ msgctxt "#30003"
 msgid "Frameskip"
 msgstr ""
 
+msgctxt "#30004"
+msgid "Number of Threads (restart)"
+msgstr ""
+

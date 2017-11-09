@@ -4,5 +4,6 @@
 		<setting label="30001" type="select" id="yabause_addon_cart" values="none|1M_ram|4M_ram" default="none"/>
 		<setting label="30002" type="select" id="yabause_force_hle_bios" values="disabled|enabled" default="disabled"/>
 		<setting label="30003" type="select" id="yabause_frameskip" values="disabled|enabled" default="disabled"/>
+		<setting label="30004" type="select" id="yabause_numthreads" values="1|2|4|8|16|32" default="1"/>
 	</category>
 </settings>
