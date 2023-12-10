@@ -18,7 +18,7 @@ Help make me fanart!
 
 ### Screenshots
 
-Help make me screenshots!
+![Sega - Saturn (Yabause) screenshot](game.libretro.yabause/resources/screenshot-01.jpg)
 
 ### Disclaimer
 
