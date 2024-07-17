@@ -48,6 +48,7 @@ elseif(CORE_SYSTEM_NAME STREQUAL osx)
                     -f Makefile
                     platform=osx
                     arch=${ARCH}
+                    CROSS_COMPILE=1
                     LIBRETRO_APPLE_PLATFORM=${CPU}-apple-macos
                     LIBRETRO_APPLE_ISYSROOT=${CMAKE_OSX_SYSROOT}
                      ${LIBRETRO_DEBUG} GIT_VERSION=)
