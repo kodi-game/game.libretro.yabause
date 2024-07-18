@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <addon id="game.libretro.yabause"
 		name="Sega - Saturn (Yabause)"
-		version="0.9.15.59"
+		version="0.9.15.60"
 		provider-name="Guillaume Duhammel, Theo Berkau, Anders Montonen">
 	<requires>
 		<import addon="game.libretro" version="1.0.0"/>
