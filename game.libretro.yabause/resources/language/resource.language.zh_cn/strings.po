@@ -29,10 +29,6 @@ msgctxt "Addon Disclaimer"
 msgid "Icon credit: Anarkhya (anarkhya.deviantart.com)"
 msgstr "图标来源：Anarkhya（anarkhya.deviantart.com）"
 
-msgctxt "#30000"
-msgid "Settings"
-msgstr "设置"
-
 msgctxt "#30001"
 msgid "Frameskip"
 msgstr "帧跳过"
@@ -56,3 +52,7 @@ msgstr "6玩家适配器在端口2"
 msgctxt "#30006"
 msgid "Number of Threads (Restart Required)"
 msgstr "线程数（需要重新启动）"
+
+#~ msgctxt "#30000"
+#~ msgid "Settings"
+#~ msgstr "设置"

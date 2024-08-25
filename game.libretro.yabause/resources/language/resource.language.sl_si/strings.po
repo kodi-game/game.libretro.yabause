@@ -29,10 +29,6 @@ msgctxt "Addon Disclaimer"
 msgid "Icon credit: Anarkhya (anarkhya.deviantart.com)"
 msgstr "Zasluga ikone: Anarhya (anarhya.deviantart.com)"
 
-msgctxt "#30000"
-msgid "Settings"
-msgstr "Nastavitve"
-
 msgctxt "#30001"
 msgid "Frameskip"
 msgstr "Preskakovanje okvirja"
@@ -56,3 +52,7 @@ msgstr "Adapter za 6 igralcev na vratih 2"
 msgctxt "#30006"
 msgid "Number of Threads (Restart Required)"
 msgstr "Število niti (potreben ponovni zagon)"
+
+#~ msgctxt "#30000"
+#~ msgid "Settings"
+#~ msgstr "Nastavitve"

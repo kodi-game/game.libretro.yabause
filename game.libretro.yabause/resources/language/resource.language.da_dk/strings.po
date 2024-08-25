@@ -29,10 +29,6 @@ msgctxt "Addon Disclaimer"
 msgid "Icon credit: Anarkhya (anarkhya.deviantart.com)"
 msgstr "Billedkreditering: Anarkhya (anarkhya.deviantart.com)"
 
-msgctxt "#30000"
-msgid "Settings"
-msgstr "Indstillinger"
-
 msgctxt "#30001"
 msgid "Frameskip"
 msgstr "Spring frame over"
@@ -56,6 +52,10 @@ msgstr "6-spiller adaptor på port 2"
 msgctxt "#30006"
 msgid "Number of Threads (Restart Required)"
 msgstr "Antal af tråde (genstart påkrævet)"
+
+#~ msgctxt "#30000"
+#~ msgid "Settings"
+#~ msgstr "Indstillinger"
 
 #~ msgctxt "Addon Summary"
 #~ msgid "Sega - Saturn (Yabause) v0.9.15"

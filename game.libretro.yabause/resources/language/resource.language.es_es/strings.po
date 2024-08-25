@@ -29,10 +29,6 @@ msgctxt "Addon Disclaimer"
 msgid "Icon credit: Anarkhya (anarkhya.deviantart.com)"
 msgstr "Crédito del icono: Anarkhya (anarkhya.deviantart.com)"
 
-msgctxt "#30000"
-msgid "Settings"
-msgstr "Ajustes"
-
 msgctxt "#30001"
 msgid "Frameskip"
 msgstr "Salto de Fotogramas"
@@ -56,3 +52,7 @@ msgstr "Adaptador 6 Jugadores en Puerto 2"
 msgctxt "#30006"
 msgid "Number of Threads (Restart Required)"
 msgstr "Número de Hilos (Reinicio Requerido)"
+
+#~ msgctxt "#30000"
+#~ msgid "Settings"
+#~ msgstr "Ajustes"
