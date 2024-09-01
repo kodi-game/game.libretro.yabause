@@ -28,6 +28,8 @@ msgctxt "Addon Disclaimer"
 msgid "Icon credit: Anarkhya (anarkhya.deviantart.com)"
 msgstr ""
 
+# Empty string with ID 30000
+
 msgctxt "#30001"
 msgid "Frameskip"
 msgstr ""
