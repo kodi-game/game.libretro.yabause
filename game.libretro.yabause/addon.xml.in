@@ -25,6 +25,7 @@
 			<icon>resources/icon.png</icon>
 			<screenshot>resources/screenshot-01.jpg</screenshot>
 		</assets>
+		<summary lang="cs_CZ">Sega - Saturn (Yabause)</summary>
 		<summary lang="da_DK">Sega - Saturn (Yabause)</summary>
 		<summary lang="en_GB">Sega - Saturn (Yabause)</summary>
 		<summary lang="es_ES">Sega - Saturn (Yabause)</summary>
@@ -33,6 +34,7 @@
 		<summary lang="ru_RU">Sega — Saturn (Yabause)</summary>
 		<summary lang="sv_SE">Sega - Saturn (Yabause)</summary>
 		<summary lang="zh_CN">世嘉 - Saturn (Yabause)</summary>
+		<description lang="cs_CZ">Yabause znamená Yet Another Buggy And Uncomplete Saturn Emulator. Yabause umí spustit BIOS a hry pro Sega Saturn, z nichž některé jsou hratelné.</description>
 		<description lang="da_DK">Yabause står for Yet Another Buggy And Uncomplete Saturn Emulator. Yabause kan starte Sega Saturn bios og spil, hvoraf nogle kan spilles.</description>
 		<description lang="de_DE">Yabause steht für Yet Another Buggy And Uncomplete Saturn Emulator. Yabause kann Sega Saturn-Bios und Spiele booten, von denen einige spielbar sind.</description>
 		<description lang="en_GB">Yabause stands for Yet Another Buggy And Uncomplete Saturn Emulator. Yabause can boot Sega Saturn bios and games, some of which are playable.</description>
@@ -43,6 +45,7 @@
 		<description lang="sl_SI">Yabause pomeni Yet Another Buggy And Uncomplete Saturn Emulator. Yabause lahko zažene bios in igre Sega Saturn, od katerih je nekatere mogoče igrati.</description>
 		<description lang="sv_SE">Yabause står för Yet Another Buggy And Uncomplete Saturn Emulator. Yabause kan starta Sega Saturn bios och spel, varav några är spelbara.</description>
 		<description lang="zh_CN">Yabause 代表另一个有程序缺陷未完成的土星模拟器。Yabause 可以引导世嘉土星 bios 和游戏，其中一些是可玩的。</description>
+		<disclaimer lang="cs_CZ">Autor ikony: Anarkhya (anarkhya.deviantart.com)</disclaimer>
 		<disclaimer lang="da_DK">Billedkreditering: Anarkhya (anarkhya.deviantart.com)</disclaimer>
 		<disclaimer lang="de_DE">Symbolnachweis: Anarkhya (anarkhya.deviantart.com)</disclaimer>
 		<disclaimer lang="en_GB">Icon credit: Anarkhya (anarkhya.deviantart.com)</disclaimer>
