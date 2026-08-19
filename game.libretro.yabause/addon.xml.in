@@ -6,6 +6,8 @@
 	<requires>
 		<import addon="game.libretro" version="1.0.0"/>
 		<import addon="game.controller.saturn" version="1.0.0"/>
+		<import addon="game.controller.saturn.3d.japan" version="1.0.0"/>
+		<import addon="game.controller.saturn.3d.western" version="1.0.0"/>
 		<import addon="game.controller.saturn.multitap" version="1.0.0"/>
 	</requires>
 	<extension point="kodi.gameclient"
