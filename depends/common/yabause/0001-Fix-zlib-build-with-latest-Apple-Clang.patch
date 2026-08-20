@@ -1,0 +1,25 @@
+From 97ba5c6370a187bda08719529449bddc586adb8a Mon Sep 17 00:00:00 2001
+From: Garrett Brown <themagnificentmrb@gmail.com>
+Date: Thu, 20 Aug 2026 16:04:20 -0700
+Subject: [PATCH] Fix zlib build with latest Apple Clang
+
+---
+ yabause/src/libchdr/deps/zlib-1.2.11/zutil.h | 2 +-
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+
+diff --git a/yabause/src/libchdr/deps/zlib-1.2.11/zutil.h b/yabause/src/libchdr/deps/zlib-1.2.11/zutil.h
+index b079ea6a8..7439d6c8c 100644
+--- a/yabause/src/libchdr/deps/zlib-1.2.11/zutil.h
++++ b/yabause/src/libchdr/deps/zlib-1.2.11/zutil.h
+@@ -130,7 +130,7 @@ extern z_const char * const z_errmsg[10]; /* indexed by 2-zlib_error */
+ #  endif
+ #endif
+ 
+-#if defined(MACOS) || defined(TARGET_OS_MAC)
++#if defined(MACOS)
+ #  define OS_CODE  7
+ #  ifndef Z_SOLO
+ #    if defined(__MWERKS__) && __dest_os != __be_os && __dest_os != __win32_os
+-- 
+2.50.1 (Apple Git-155)
+
