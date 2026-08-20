@@ -53,6 +53,42 @@ msgctxt "#30006"
 msgid "Number of Threads (Restart Required)"
 msgstr ""
 
+msgctxt "#30007"
+msgid "Skip frames to improve performance."
+msgstr ""
+
+msgctxt "#30008"
+msgid "Use High Level Emulation BIOS. Not recommended, as it's causing more issues than it solves."
+msgstr ""
+
+msgctxt "#30009"
+msgid "Emulate an add-on RAM expansion cartridge. Some games require this to be played, while a few others will have improved performance."
+msgstr ""
+
+msgctxt "#30010"
+msgid "disabled"
+msgstr ""
+
+msgctxt "#30011"
+msgid "1MB RAM"
+msgstr ""
+
+msgctxt "#30012"
+msgid "4MB RAM"
+msgstr ""
+
+msgctxt "#30013"
+msgid "Enable multitap in port 1."
+msgstr ""
+
+msgctxt "#30014"
+msgid "Enable multitap in port 2."
+msgstr ""
+
+msgctxt "#30015"
+msgid "Depending on your CPU, changing this value can improve performance."
+msgstr ""
+
 #~ msgctxt "#30000"
 #~ msgid "Settings"
 #~ msgstr "Configurações"
