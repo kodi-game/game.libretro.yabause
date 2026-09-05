@@ -12,7 +12,7 @@
 	</requires>
 	<extension point="kodi.gameclient"
 			library_@PLATFORM@="@LIBRARY_FILENAME@">
-		<platforms>Sega Saturn</platforms>
+		<platforms>Sega - Saturn</platforms>
 		<extensions>cue|iso|mds|ccd|zip|chd|m3u</extensions>
 		<supports_vfs>false</supports_vfs>
 		<supports_standalone>false</supports_standalone>
