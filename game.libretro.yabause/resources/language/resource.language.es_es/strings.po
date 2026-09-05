@@ -22,17 +22,17 @@ msgid "Sega - Saturn (Yabause)"
 msgstr "Sega - Saturn (Yabause)"
 
 msgctxt "Addon Description"
-msgid ""
-"Yabause stands for Yet Another Buggy And Uncomplete Saturn Emulator. Yabause"
-" can boot Sega Saturn bios and games, some of which are playable."
-msgstr ""
-"Yabause son las siglas de Yet Another Buggy And Uncomplete Saturn Emulator. "
-"Yabause puede arrancar bios y juegos de Sega Saturn, algunos de los cuales "
-"son jugables."
+msgid "Yabause stands for Yet Another Buggy And Uncomplete Saturn Emulator. Yabause can boot Sega Saturn bios and games, some of which are playable."
+msgstr "[CR]Yabause son las siglas de Yet Another Buggy And Uncomplete Saturn Emulator. [CR]Yabause puede arrancar bios y juegos de Sega Saturn, algunos de los cuales [CR]son jugables."
 
 msgctxt "Addon Disclaimer"
 msgid "Icon credit: Anarkhya (anarkhya.deviantart.com)"
 msgstr "Crédito del icono: Anarkhya (anarkhya.deviantart.com)"
+
+"Yabause son las siglas de Yet Another Buggy And Uncomplete Saturn Emulator. "
+"Yabause puede arrancar bios y juegos de Sega Saturn, algunos de los cuales "
+"son jugables."
+
 
 msgctxt "#30001"
 msgid "Frameskip"

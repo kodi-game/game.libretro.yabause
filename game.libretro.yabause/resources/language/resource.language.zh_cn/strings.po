@@ -22,9 +22,7 @@ msgid "Sega - Saturn (Yabause)"
 msgstr "世嘉 - Saturn (Yabause)"
 
 msgctxt "Addon Description"
-msgid ""
-"Yabause stands for Yet Another Buggy And Uncomplete Saturn Emulator. Yabause"
-" can boot Sega Saturn bios and games, some of which are playable."
+msgid "Yabause stands for Yet Another Buggy And Uncomplete Saturn Emulator. Yabause can boot Sega Saturn bios and games, some of which are playable."
 msgstr "Yabause 代表另一个有程序缺陷未完成的土星模拟器。Yabause 可以引导世嘉土星 bios 和游戏，其中一些是可玩的。"
 
 msgctxt "Addon Disclaimer"
