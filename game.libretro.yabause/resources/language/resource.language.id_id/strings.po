@@ -22,7 +22,9 @@ msgid "Sega - Saturn (Yabause)"
 msgstr ""
 
 msgctxt "Addon Description"
-msgid "Yabause stands for Yet Another Buggy And Uncomplete Saturn Emulator. Yabause can boot Sega Saturn bios and games, some of which are playable."
+msgid ""
+"Yabause stands for Yet Another Buggy And Uncomplete Saturn Emulator. Yabause"
+" can boot Sega Saturn bios and games, some of which are playable."
 msgstr ""
 
 msgctxt "Addon Disclaimer"
@@ -58,11 +60,15 @@ msgid "Skip frames to improve performance."
 msgstr ""
 
 msgctxt "#30008"
-msgid "Use High Level Emulation BIOS. Not recommended, as it's causing more issues than it solves."
+msgid ""
+"Use High Level Emulation BIOS. Not recommended, as it's causing more issues "
+"than it solves."
 msgstr ""
 
 msgctxt "#30009"
-msgid "Emulate an add-on RAM expansion cartridge. Some games require this to be played, while a few others will have improved performance."
+msgid ""
+"Emulate an add-on RAM expansion cartridge. Some games require this to be "
+"played, while a few others will have improved performance."
 msgstr ""
 
 msgctxt "#30010"
@@ -79,11 +85,11 @@ msgstr ""
 
 msgctxt "#30013"
 msgid "Enable multitap in port 1."
-msgstr ""
+msgstr "Aktifkan fitur multitap di port 1."
 
 msgctxt "#30014"
 msgid "Enable multitap in port 2."
-msgstr ""
+msgstr "Aktifkan fitur multitap di port 2."
 
 msgctxt "#30015"
 msgid "Depending on your CPU, changing this value can improve performance."
