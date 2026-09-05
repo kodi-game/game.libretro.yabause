@@ -27,7 +27,7 @@ msgstr "[CR]Yabause расшифровывается как Yet Another Buggy An
 
 msgctxt "Addon Disclaimer"
 msgid "Icon credit: Anarkhya (anarkhya.deviantart.com)"
-msgstr "Автор значка: Anarkhya (anarkhya.deviantart.com)"
+msgstr "Автор значка: Anarkhya (anarkhya.deviantart.com)[CR][CR]Yabause расшифровывается как Yet Another Buggy And Uncomplete Saturn [CR]Emulator (Очередной глючный и незавершённый эмулятор Saturn). Yabause может [CR]загружать BIOS и игры Sega Saturn, некоторые из которых играбельны."
 
 "Yabause расшифровывается как Yet Another Buggy And Uncomplete Saturn "
 "Emulator (Очередной глючный и незавершённый эмулятор Saturn). Yabause может "

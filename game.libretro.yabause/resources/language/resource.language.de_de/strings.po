@@ -27,7 +27,7 @@ msgstr "[CR]Yabause steht für Yet Another Buggy And Uncomplete Saturn Emulator.
 
 msgctxt "Addon Disclaimer"
 msgid "Icon credit: Anarkhya (anarkhya.deviantart.com)"
-msgstr "Symbolnachweis: Anarkhya (anarkhya.deviantart.com)"
+msgstr "Symbolnachweis: Anarkhya (anarkhya.deviantart.com)[CR][CR]Yabause steht für Yet Another Buggy And Uncomplete Saturn Emulator. Yabause [CR]kann Sega Saturn-Bios und Spiele booten, von denen einige spielbar sind."
 
 "Yabause steht für Yet Another Buggy And Uncomplete Saturn Emulator. Yabause "
 "kann Sega Saturn-Bios und Spiele booten, von denen einige spielbar sind."
