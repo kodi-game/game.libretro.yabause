@@ -23,15 +23,11 @@ msgstr ""
 
 msgctxt "Addon Description"
 msgid "Yabause stands for Yet Another Buggy And Uncomplete Saturn Emulator. Yabause can boot Sega Saturn bios and games, some of which are playable."
-msgstr "[CR]Yabause steht für Yet Another Buggy And Uncomplete Saturn Emulator. Yabause [CR]kann Sega Saturn-Bios und Spiele booten, von denen einige spielbar sind."
+msgstr "Yabause steht für Yet Another Buggy And Uncomplete Saturn Emulator. Yabause kann Sega Saturn-Bios und Spiele booten, von denen einige spielbar sind."
 
 msgctxt "Addon Disclaimer"
 msgid "Icon credit: Anarkhya (anarkhya.deviantart.com)"
-msgstr "Symbolnachweis: Anarkhya (anarkhya.deviantart.com)[CR][CR]Yabause steht für Yet Another Buggy And Uncomplete Saturn Emulator. Yabause [CR]kann Sega Saturn-Bios und Spiele booten, von denen einige spielbar sind."
-
-"Yabause steht für Yet Another Buggy And Uncomplete Saturn Emulator. Yabause "
-"kann Sega Saturn-Bios und Spiele booten, von denen einige spielbar sind."
-
+msgstr "Symbolnachweis: Anarkhya (anarkhya.deviantart.com)"
 
 msgctxt "#30001"
 msgid "Frameskip"
@@ -62,20 +58,12 @@ msgid "Skip frames to improve performance."
 msgstr "Frames überspringen, um die Leistung zu verbessern."
 
 msgctxt "#30008"
-msgid ""
-"Use High Level Emulation BIOS. Not recommended, as it's causing more issues "
-"than it solves."
-msgstr ""
-"High Level Emulation BIOS verwenden. Nicht empfohlen, da es mehr Probleme "
-"verursacht, als es löst."
+msgid "Use High Level Emulation BIOS. Not recommended, as it's causing more issues than it solves."
+msgstr "High Level Emulation BIOS verwenden. Nicht empfohlen, da es mehr Probleme verursacht, als es löst."
 
 msgctxt "#30009"
-msgid ""
-"Emulate an add-on RAM expansion cartridge. Some games require this to be "
-"played, while a few others will have improved performance."
-msgstr ""
-"Eine Add-on-RAM-Erweiterung emulieren. Einige Spiele benötigen dies, um "
-"gespielt werden zu können, während einige andere dadurch besser laufen."
+msgid "Emulate an add-on RAM expansion cartridge. Some games require this to be played, while a few others will have improved performance."
+msgstr "Eine Add-on-RAM-Erweiterung emulieren. Einige Spiele benötigen dies, um gespielt werden zu können, während einige andere dadurch besser laufen."
 
 msgctxt "#30010"
 msgid "disabled"
@@ -99,8 +87,7 @@ msgstr "Multitap auf Port 2 aktivieren."
 
 msgctxt "#30015"
 msgid "Depending on your CPU, changing this value can improve performance."
-msgstr ""
-"Abhängig von der CPU können unterschiedliche Werte die Leistung verbessern."
+msgstr "Abhängig von der CPU können unterschiedliche Werte die Leistung verbessern."
 
 #~ msgctxt "#30000"
 #~ msgid "Settings"
