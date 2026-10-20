@@ -18,6 +18,7 @@
 		<supports_standalone>false</supports_standalone>
 		<supports_disc_control>true</supports_disc_control>
 		<libretro_core>yabause_libretro</libretro_core>
+		<savestate_features>basic</savestate_features>
 	</extension>
 	<extension point="xbmc.addon.metadata">
 		<license>GPLv2</license>
